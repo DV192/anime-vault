@@ -1,6 +1,6 @@
 # Anime Vault
 
-[![Anime Vault Preview](public/anime-vault.png)](https://anime-vault-dv192.vercel.app/)
+[![Anime Vault Preview](public/anime-vault-screenshot.png)](https://anime-vault-dv192.vercel.app/)
 
 Anime Vault is a modern Next.js 14 server-side application with server actions, infinite scroll, and Framer Motion animations. It displays a dynamic list of anime that are fetched when the user scrolls to the bottom of the page.
 
