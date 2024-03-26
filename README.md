@@ -16,7 +16,7 @@ Make sure you have Node.js installed.
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/your-username/anime-vault.git
+git clone https://github.com/DV192/anime-vault.git
 cd anime-vault
 npm install
 ```
